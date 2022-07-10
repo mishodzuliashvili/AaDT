@@ -1,3 +1,5 @@
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+```javascript
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
